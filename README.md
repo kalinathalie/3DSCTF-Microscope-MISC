@@ -71,5 +71,7 @@ while (i<=329):
 
 >After the code execution, we have a QRCODE image, scan it and get the flag!
 
+![Screen shot](https://github.com/lucasnathaniel/3DSCTF-Microscope-MISC/blob/master/qrcode.png "Flag")
+
 
 By: Lucas ~K4L1~ Nathaniel | FireShell

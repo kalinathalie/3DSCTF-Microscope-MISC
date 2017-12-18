@@ -1,6 +1,7 @@
 # 3DSCTF-Microscope-MISC-
 Microscope - 488 Points (17 solvers)
 http://microscope01.3dsctf.org:8011/
+Author: @atcasanova
 
 >The site site contain a one gif(http://microscope01.3dsctf.org:8011/gif.gif).
 >So lets to down it with:
